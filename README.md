@@ -1,11 +1,22 @@
-# Power-Bi
-Thrilled to share my latest project - a Data Professional Survey Takers Portfolio Project in Power BI.
+# Power-BI-Data-Professional-Survey-Analysis
 
-I created this portfolio project to highlight my experience and capabilities in data analysis and visualization.
+This repository contains a Power BI dashboard for analyzing and visualizing the results of a survey of data professionals. The purpose of this project is to gain insights into the demographics, skills, happiness with worklife balance, happiness with their salary, and preferences of data professionals in order to better understand the industry.
 
-This project showcases my ability to translate complex data into actionable insights and presents my skills in a visually appealing and easy-to-understand manner.
+Data Source:
+The data used in this project was obtained from a survey of data professionals. The survey includes responses from over 600 data professionals from around the world, and covers topics such as demographics, employment, and skills.
 
-If you're looking to build your own portfolio or showcase your skills as a data professional, Power BI is an excellent tool to use. It allows you to create stunning visualizations and interactive dashboards, making it easy to showcase your expertise to potential employers and clients.
+Power BI Dashboard:
+The Power BI dashboard, Job_Survey_Participants.pbix, is designed to analyze and visualize the survey data. The dashboard includes the following visualizations:
 
-So why not check out my Data Professional Survey Taker Portfolio Project in Power BI today?
-Source file and power bi file is uploaded
+A demographics / country summary showing the distribution of age, gender, and country of respondents.
+A Happiness summary showing the distribution of job titles, and happiness with work-life balance.
+A skills or favourite programming language summary showing the distribution of programming languages used by respondents.
+A salary summary showing the distribution of salaries by job title.
+
+How to Use
+To use this project for practice, follow these steps:
+
+Clone the repository to your local machine.
+Open Power BI Desktop and connect to the Job Survey Participants.xlsx file in the repository.
+Explore and analyze the data using the visualizations in the Power BI dashboard.
+Customize the dashboard as needed by adding new visualizations or modifying existing ones.
